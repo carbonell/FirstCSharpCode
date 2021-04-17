@@ -6,7 +6,7 @@ namespace FirstCSharpProgram
     {
         static void Main(string[] args)
         {
-            var message = "Hello World Dahia!";
+            var message = "Hello Dahia!";
             Console.WriteLine(message);
         }
     }
